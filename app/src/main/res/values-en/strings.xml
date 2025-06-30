@@ -1,0 +1,9 @@
+<resources>
+    <string name="back">Back</string>
+    <string name="find_full_article">Find the full article on :\n%s</string>
+    <string name="error_headlines">Error retrieving headlines</string>
+    <plurals name="results_count">
+        <item quantity="one">%d result</item>
+        <item quantity="other">%d results</item>
+    </plurals>
+</resources>

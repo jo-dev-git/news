@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">News</string>
+    <string name="news" translatable="false">News</string>
+    <string name="back">Retour</string>
+    <string name="find_full_article">Retrouvez l\'article complet sur :\n%s</string>
+    <string name="error_headlines">Erreur lors de la récupération des actualités</string>
+    <plurals name="results_count">
+        <item quantity="one">%d résultat</item>
+        <item quantity="other">%d résultats</item>
+    </plurals>
+</resources>
